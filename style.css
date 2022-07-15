@@ -68,6 +68,18 @@ span
     display: block;
 }
 
+#design
+{
+    color: #61b752;
+    font-size: 0.8grem;
+    padding-top: 10%;
+    text-align: center;
+}
+
+a{
+    color: #fff;
+}
+
 
 @media screen and (max-width: 768px){
 
