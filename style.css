@@ -67,3 +67,28 @@ span
     margin-top: 15px;
     display: block;
 }
+
+
+@media screen and (max-width: 768px){
+
+    form input
+    {
+        border: 0;
+        outline: none;
+        padding: 10px 20px;
+        height: 50px;
+        width: 220px;
+        font-size: 1rem;
+    }  
+
+    form button
+{
+    background:#61b752 ;
+    border: 0;
+    outline: none;
+    height: 50px;
+    width: 55px;
+}
+
+    
+}
